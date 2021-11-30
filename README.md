@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OladapoAO (Dapo A Owolabi)
-- 👀 I’m interested in iOS Development, Full Stack Developer 
+- 👀 I’m interested in iOS Development & Web Development  
 - 🌱 I’m currently learning Swift UI
 - 💞️ I’m looking to collaborate on aything
 - 📫 How to reach me Dapo.owolabi@outlook.com
