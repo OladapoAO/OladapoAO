@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OladapoAO (Dapo A Owolabi)
-- 👀 I’m interested in iOS Development & Web Development  
-- 🌱 I’m currently learning Swift UI
+- 👀 I’m interested in Data Engineering 
+- 🌱 I’m upskilling in Python & SQL
 - 💞️ I’m looking to collaborate on aything
 - 📫 How to reach me Dapo.owolabi@outlook.com
 
